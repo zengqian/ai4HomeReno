@@ -1,11 +1,11 @@
 # ai4HomeReno
 how i AI to manage house rebuild projects
-Complete electrical procurement documentation for the renovation at 1176 Greenwood Ave, Palo Alto CA 94301.
+Complete electrical procurement documentation for the renovation in Palo Alto CA.
 Covers the full workflow from contractor quote review → product selection → compatibility validation → cart audit → final electrician install guide.
 
 # Electrical Procurement
  
-Complete electrical procurement documentation for the renovation at **1176 Greenwood Ave, Palo Alto CA 94301**.
+Complete electrical procurement documentation for the renovation at Palo Alto.
  
 Covers the full workflow from contractor quote review → product selection → compatibility validation → cart audit → final electrician install guide.
 
